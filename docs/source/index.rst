@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+W88 – Sân chơi chơi game uy tín hàng đầu châu Á
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`W88 <https://w88p.info/>`_ là một thương hiệu nổi bật trong lĩnh vực chơi game đổi thưởng trực tuyến, được thành lập năm 2016 với trụ sở tại Makati, Philippines. Với giấy phép từ First Cagayan Leisure & Resort Corporation và chứng nhận từ tổ chức Gaming Associates, W88 đã khẳng định vị thế là một sân chơi hợp pháp và đáng tin cậy, mở rộng từ Châu Á đến Châu Âu. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Nổi bật với sự đa dạng về trò chơi, W88 cung cấp các sản phẩm như thể thao, casino, bắn cá, baccarat, poker, xổ số và esports, mang đến trải nghiệm giải trí đỉnh cao. Ngoài ra, W88 còn hỗ trợ người chơi với ứng dụng miễn phí, giao dịch nạp rút nhanh chóng và dịch vụ khách hàng chuyên nghiệp, đảm bảo sự hài lòng tối đa. Đăng ký tài khoản tại W88 ngay hôm nay để nhận ưu đãi hấp dẫn +100k và tham gia vào sân chơi chơi game đẳng cấp!
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 83 Đ. Đông Hồ, Phường 8, Tân Bình, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0775889764. 
 
-.. toctree::
+Email: info@w88p.info. 
 
-   usage
-   api
+Website: https://w88p.info/
+
+#w88 #trangchuw88 #dangkyw88 #dangnhapw88 #linkw88
